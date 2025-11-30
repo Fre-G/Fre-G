@@ -1,4 +1,5 @@
 💫 About Me:
+
 🎓 I'm currently working on: final year project at the University of Gondar  plus a tiny portfolio
 and graphics experiments.<br><br>🤝 I'm looking to collaborate on: beginner web projects, UI/graphics  style tasks and small teams where I can help with design and management, In case needed someone organized who can keep the team from going crazy.<br> <br>🆘 I'm looking for help with: Git basics, deploying my first little site, and project management mentor/lead me on a real project so I don’t wander around like “where do I click now??” , any tips very welcome!<br><br>📚 I'm currently learning: HTML & CSS, a bit of JavaScript, graphics and how not to fall asleep during lectures 😭😂.  <br> <br>💬 Ask me about: uni life, study playlists, snack-fueled debugging, how I study last-minute like it’s an Olympic sport, or try me with the weirdest coding question you’ve got — I dare you 🤭<br>  <br>⚡ Fun fact: chill gurl who name folders "final_final_v2_reallyfinal" also I forget every single password, file location, and what I ate yesterday. If I ever disappear, I’m probably just lost in my own folders 😭😂.
 
